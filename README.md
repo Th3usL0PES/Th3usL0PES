@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Th3usL0PES
+- 👋 Hi, I’m Matheus Lopes
 - 👀 I’m interested in programing, tecnologies
 - 🌱 I’m currently learning JavaScript, Html, C++, Flutter, Phyton and other languages and frameworks.
