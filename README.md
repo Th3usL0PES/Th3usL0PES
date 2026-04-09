@@ -25,9 +25,9 @@
 
 <h2 align="left">GitHub Stats</h2>
 
-<div align="left"
-  <img src="https://github-readme-stats.vercel.app/api?username=Th3usL0PES&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Th3usL0PES&layout=compact&theme=codeSTACKr&langs_count=5" height="150" alt="languages graph" />
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Th3usL0PES&theme=codeSTACKr" height="150" alt="streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Th3usL0PES&layout=compact&theme=codeSTACKr&langs_count=5&card_width=320" height="150" alt="languages graph" />
 </div>
 
 ###
